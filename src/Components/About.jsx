@@ -23,20 +23,20 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+const description = "I'm Frontend developer from Mumbai , India, with a Bachelor's degree in Computer Science. I focus on creating visually appealing and user-friendly web interfaces. Aside from coding , I'm either playing cricket or drawing. I'm eager to learn and explore newopportunities in web development and design.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Html",
+  "Css",
+  "TailwindCss",
+  "Javascript",
+  "Git and Github",
+  "Reactjs",
+  "Figma",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in creative ways to drive innovation in frontend development. By leveraging my experience in creating responsive and visually appealing designs, I continually seek new and better ways to make technology accessible and user-friendly for everyone.";
 
 const About = () => {
   return (

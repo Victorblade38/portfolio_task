@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "todoTask",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This To-Do App is a feature-rich task management tool built with React, Vite, JavaScript, and Tailwind CSS. It allows users to efficiently manage their tasks while incorporating additional functionalities to enhance the user experience.",
+    url: "https://todo-vite-project.vercel.app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "infodaily-react",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "InfoDaily is an API-integrated news application designed to keep users informed about the latest news across various categories. Built with React, Vite, JavaScript, and Tailwind CSS, this app provides a seamless and engaging user experience for browsing news articles.Its in development not completed yet",
+    url: "https://infodaily-react.vercel.app",
   },
   {
-    title: "My Resume Site",
+    title: "Personal Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is my personal portfolio website built using React, Vite, JavaScript, and Tailwind CSS. It serves as a digital showcase of my work, skills, and experience as a web developer. The website provides an overview of who I am, highlights my technical skills, and features some of the projects I've worked on.",
+    url: "https://prathammhavale.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Weatherapp",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Wokring on a simple and responsive weather application built with React, Vite, and Tailwind CSS, using the OpenWeather API to fetch real-time weather data.",
+    url: "https://weather-app-phi-six-88.vercel.app/",
   },
 ];
 
